@@ -1,0 +1,24 @@
+
+body{
+  background-image: url(https://i.pinimg.com/originals/42/1f/7a/421f7ac9f5fa98b9e40259c17b5bbf24.jpg);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: cover;
+  padding: 0%;
+  font-family: 'arial', cursive;
+
+}
+.cabeçalho1{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+  
+}
+.biografia{
+  font-size: 17px;
+  font-family: sans-serif;
+  font-weight: 100;
+}
+.card-header-title{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+}
